@@ -6,3 +6,4 @@ LinkedIn
 Resume Download
 Dark theme
 Mobile responsive design
+https://codewithrinchu.github.io
